@@ -1,0 +1,3355 @@
+fileFormatVersion: 2
+guid: 0c54d8da65a4bae4a92e464aa44d74cd
+timeCreated: 1436326333
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_0
+    21300002: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_1
+    21300004: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_2
+    21300006: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_3
+    21300008: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_4
+    21300010: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_5
+    21300012: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_6
+    21300014: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_7
+    21300016: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_8
+    21300018: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_9
+    21300020: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_10
+    21300022: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_11
+    21300024: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_12
+    21300026: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_13
+    21300028: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_14
+    21300030: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_15
+    21300032: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_16
+    21300034: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_17
+    21300036: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_18
+    21300038: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_19
+    21300040: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_20
+    21300042: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_21
+    21300044: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_22
+    21300046: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_23
+    21300048: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_24
+    21300050: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_25
+    21300052: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_26
+    21300054: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_27
+    21300056: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_28
+    21300058: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_29
+    21300060: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_30
+    21300062: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_31
+    21300064: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_32
+    21300066: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_33
+    21300068: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_34
+    21300070: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_35
+    21300072: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_36
+    21300074: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_37
+    21300076: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_38
+    21300078: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_39
+    21300080: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_40
+    21300082: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_41
+    21300084: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_42
+    21300086: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_43
+    21300088: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_44
+    21300090: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_45
+    21300092: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_46
+    21300094: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_47
+    21300096: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_48
+    21300098: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_49
+    21300100: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_50
+    21300102: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_51
+    21300104: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_52
+    21300106: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_53
+    21300108: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_54
+    21300110: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_55
+    21300112: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_56
+    21300114: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_57
+    21300116: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_58
+    21300118: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_59
+    21300120: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_60
+    21300122: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_61
+    21300124: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_62
+    21300126: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_63
+    21300128: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_64
+    21300130: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_65
+    21300132: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_66
+    21300134: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_67
+    21300136: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_68
+    21300138: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_69
+    21300140: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_70
+    21300142: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_71
+    21300144: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_72
+    21300146: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_73
+    21300148: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_74
+    21300150: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_75
+    21300152: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_76
+    21300154: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_77
+    21300156: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_78
+    21300158: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_79
+    21300160: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_80
+    21300162: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_81
+    21300164: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_82
+    21300166: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_83
+    21300168: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_84
+    21300170: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_85
+    21300172: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_86
+    21300174: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_87
+    21300176: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_88
+    21300178: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_89
+    21300180: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_90
+    21300182: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_91
+    21300184: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_92
+    21300186: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_93
+    21300188: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_94
+    21300190: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_95
+    21300192: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_96
+    21300194: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_97
+    21300196: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_98
+    21300198: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_99
+    21300200: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_100
+    21300202: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_101
+    21300204: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_102
+    21300206: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_103
+    21300208: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_104
+    21300210: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_105
+    21300212: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_106
+    21300214: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_107
+    21300216: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_108
+    21300218: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_109
+    21300220: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_110
+    21300222: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_111
+    21300224: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_112
+    21300226: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_113
+    21300228: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_114
+    21300230: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_115
+    21300232: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_116
+    21300234: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_117
+    21300236: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_118
+    21300238: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_119
+    21300240: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_120
+    21300242: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_121
+    21300244: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_122
+    21300246: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_123
+    21300248: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_124
+    21300250: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_125
+    21300252: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_126
+    21300254: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_127
+    21300256: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_128
+    21300258: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_129
+    21300260: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_130
+    21300262: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_131
+    21300264: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_132
+    21300266: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_133
+    21300268: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_134
+    21300270: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_135
+    21300272: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_136
+    21300274: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_137
+    21300276: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_138
+    21300278: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_139
+    21300280: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_140
+    21300282: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_141
+    21300284: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_142
+    21300286: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_143
+    21300288: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_144
+    21300290: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_145
+    21300292: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_146
+    21300294: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_147
+    21300296: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_148
+    21300298: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_149
+    21300300: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_150
+    21300302: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_151
+    21300304: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_152
+    21300306: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_153
+    21300308: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_154
+    21300310: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_155
+    21300312: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_156
+    21300314: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_157
+    21300316: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_158
+    21300318: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_159
+    21300320: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_160
+    21300322: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_161
+    21300324: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_162
+    21300326: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_163
+    21300328: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_164
+    21300330: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_165
+    21300332: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_166
+    21300334: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_167
+    21300336: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_168
+    21300338: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_169
+    21300340: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_170
+    21300342: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_171
+    21300344: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_172
+    21300346: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_173
+    21300348: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_174
+    21300350: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_175
+    21300352: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_176
+    21300354: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_177
+    21300356: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_178
+    21300358: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_179
+    21300360: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_180
+    21300362: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_181
+    21300364: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_182
+    21300366: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_183
+    21300368: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_184
+    21300370: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_185
+    21300372: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_186
+    21300374: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_187
+    21300376: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_188
+    21300378: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_189
+    21300380: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_190
+    21300382: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_191
+    21300384: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_192
+    21300386: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_193
+    21300388: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_194
+    21300390: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_195
+    21300392: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_196
+    21300394: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_197
+    21300396: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_198
+    21300398: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_199
+    21300400: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_200
+    21300402: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_201
+    21300404: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_202
+    21300406: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_203
+    21300408: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_204
+    21300410: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_205
+    21300412: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_206
+    21300414: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_207
+    21300416: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_208
+    21300418: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_209
+    21300420: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_210
+    21300422: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_211
+    21300424: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_212
+    21300426: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_213
+    21300428: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_214
+    21300430: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_215
+    21300432: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_216
+    21300434: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_217
+    21300436: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_218
+    21300438: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_219
+    21300440: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_220
+    21300442: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_221
+    21300444: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_222
+    21300446: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_223
+    21300448: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_224
+    21300450: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_225
+    21300452: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_226
+    21300454: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_227
+    21300456: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_228
+    21300458: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_229
+    21300460: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_230
+    21300462: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_231
+    21300464: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_232
+    21300466: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_233
+    21300468: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_234
+    21300470: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_235
+    21300472: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_236
+    21300474: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_237
+    21300476: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_238
+    21300478: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_239
+    21300480: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_240
+    21300482: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_241
+    21300484: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_242
+    21300486: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_243
+    21300488: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_244
+    21300490: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_245
+    21300492: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_246
+    21300494: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_247
+    21300496: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_248
+    21300498: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_249
+    21300500: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_250
+    21300502: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_251
+    21300504: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_252
+    21300506: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_253
+    21300508: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_254
+    21300510: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_255
+    21300512: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_256
+    21300514: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_257
+    21300516: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_258
+    21300518: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_259
+    21300520: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_260
+    21300522: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_261
+    21300524: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_262
+    21300526: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_263
+    21300528: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_264
+    21300530: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_265
+    21300532: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_266
+    21300534: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_267
+    21300536: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_268
+    21300538: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_269
+    21300540: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_270
+    21300542: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_271
+    21300544: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_272
+    21300546: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_273
+    21300548: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_274
+    21300550: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_275
+    21300552: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_276
+    21300554: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_277
+    21300556: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_278
+    21300558: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_279
+    21300560: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_280
+    21300562: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_281
+    21300564: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_282
+    21300566: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_283
+    21300568: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_284
+    21300570: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_285
+    21300572: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_286
+    21300574: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_287
+    21300576: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_288
+    21300578: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_289
+    21300580: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_290
+    21300582: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_291
+    21300584: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_292
+    21300586: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_293
+    21300588: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_294
+    21300590: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_295
+    21300592: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_296
+    21300594: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_297
+    21300596: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_298
+    21300598: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_299
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 800
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_43
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_45
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_46
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_47
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_65
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_67
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_68
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_69
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_70
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_71
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_85
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_87
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_89
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_90
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_91
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_93
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_94
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_95
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_113
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_115
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_117
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_118
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_119
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_135
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_137
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_138
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_139
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_140
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_141
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_142
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_143
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_146
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 547
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_161
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_162
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_163
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_164
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_165
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_166
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_167
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 545
+        width: 65
+        height: 60
+      alignment: 9
+      pivot: {x: .510836124, y: .695053101}
+      border: {x: 0, y: 35, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_172
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_174
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_175
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_176
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_177
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_178
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_179
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_180
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_181
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_182
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_183
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_185
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_187
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_189
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_191
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_192
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_193
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_194
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_195
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_196
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_197
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_198
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_199
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_203
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_206
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_207
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_208
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_209
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_210
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_211
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_212
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_213
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_214
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_215
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_217
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_219
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_221
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_223
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_224
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_225
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_226
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_227
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_228
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_229
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_230
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_231
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_233
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_234
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_237
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_238
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_239
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_240
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_241
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_242
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_243
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_244
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_245
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_246
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_247
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_249
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_250
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_251
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_252
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_253
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_254
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_255
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_256
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_257
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_258
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_259
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_260
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_261
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_262
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_263
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_264
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_265
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_266
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_267
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_268
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_269
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_270
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_271
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_272
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_273
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_274
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_275
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_276
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_277
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_278
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_279
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_280
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_281
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_282
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_283
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_284
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_285
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_286
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_287
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_288
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_289
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_290
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_291
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_292
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_293
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_294
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_295
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_296
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_297
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_298
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touhou_kokichi_spritework___bullets_by_popfan95b-d77iitu_299
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
